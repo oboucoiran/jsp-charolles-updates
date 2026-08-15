@@ -1,10 +1,10 @@
 {
   "appName": "JSP Charolles",
   "versionCode": 2,
-  "versionName": "1.0",
-  "apkUrl": "https://github.com/oboucoiran/jsp-charolles-updates/releases/download/v1.0/app-release.apk",
-  "releaseDate": "15/08/2026",
+  "versionName": "1.1",
+  "apkUrl": "https://github.com/oboucoiran/jsp-charolles-updates/releases/download/v1.1/app-release.apk",
+  "releaseDate": "16/08/2026",
   "title": "Mise à jour JSP Charolles",
-  "description": "Version initiale de JSP Charolles.",
+  "description": "Mise à jour de JSP Charolles - Version 1.1.",
   "mandatory": false
 }
